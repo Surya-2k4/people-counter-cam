@@ -52,6 +52,11 @@ python people_counter.py
 
 ```
 
+## 📸 Sample Output
+
+![screenshot](/sample_output.png)
+
+
 ## ⚠️ Challenges Faced
 
 Despite the simplicity of the idea, real-time computer vision introduces several challenges:
